@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning basic knowledge about GitHub.
+- 🌱 I’m currently learning basic knowledge about GitHub & AI.
 - - 😄 Pronouns:She/her
 <!--
 **Stephanieliu46/Stephanieliu46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
